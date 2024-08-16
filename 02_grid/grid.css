@@ -11,10 +11,10 @@
 }
 #vertical .container{
 	width: 33%;
-	height: 450px;
+	height: 400px;
 	display: grid;
 	grid-template-columns: repeat(3,33%);
-	grid-template-rows: repeat(1,450px);
+	grid-template-rows: repeat(1,400px);
     gap: 0px;
 }
 #vertical .container .item1{
@@ -31,7 +31,7 @@
 	height: 400px;
 	display: grid;
 	grid-template-columns: repeat(1,100%);
-	grid-template-rows: repeat(3,450px);
+	grid-template-rows: repeat(3,400px);
 	gap: 0px;
 }
 #horizontal .container .item1{
