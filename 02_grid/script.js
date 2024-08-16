@@ -6,5 +6,6 @@ alert("Olá mundo!");
 //console do navegador
 console.log("Teste de console");
 
+
 //inclui um html em um elemento identificado pelo ID
 document.getElementById("demo").innerHTML = "Madu Schenkel";
