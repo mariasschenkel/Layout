@@ -10,11 +10,11 @@
 	--amarelo: #FFAF00;
 }
 #vertical .container{
-	width: 400px;
-	height: 350px;
+	width: 33%;
+	height: 450px;
 	display: grid;
 	grid-template-columns: repeat(3,33%);
-	grid-template-rows: repeat(1,350px);
+	grid-template-rows: repeat(1,450px);
     gap: 0px;
 }
 #vertical .container .item1{
